@@ -1,0 +1,1 @@
+A place to store all my general and project specific rules and skills for how agents should build software

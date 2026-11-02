@@ -14,7 +14,7 @@ Use the /unslop skill for any response. Think of what you want to say and then u
 Use literal language for technical explanations: say what the thing actually does instead of using idioms or metaphors (e.g. “browsers fetch the missing certificate themselves,” not “browsers paper over it”).
 
 # Source Control Guidelines
-Always use git for source control. Make sure to commit your changes with a clear and concise commit message. Only commit when the user explixitly asks you to do so. Only push to remote when the user explicitly asks you to do so. The user asking you to commit does not imply that you should push to remote.
+Always use git for source control. Make sure to commit your changes with a clear and concise commit message. Only commit when the user explixitly asks you to do so. Only push to remote when the user explicitly asks you to do so. The user asking you to commit does not imply that you should push to remote. Pushed to GitHub are done through gh, the GitHub CLI.
 
 Use [Conventional Commits](https://www.conventionalcommits.org/) for commit messages, following the `<type>(<optional scope>): <description>` format. Use appropriate types such as `feat`, `fix`, `chore`, `refactor`, `test`, `docs`, and `perf`. Also add a short descrription of why the change was made.
 

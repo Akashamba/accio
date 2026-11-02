@@ -22,4 +22,4 @@ Write the description in the imperative mood (e.g. "add Google OAuth", not "adde
 
 One thread can have multiple commits, but each commit should be focused on a single change or improvement. Avoid bundling unrelated changes into a single commit. But also each commit should be meaningful and leave the codebase in a working state. Avoid committing broken or incomplete code.
 
-- do not add a co-authored line to the commit message. eg: "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" is not okay.
+Do not add a co-authored line to the commit message. eg: "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" is not okay.
